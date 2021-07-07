@@ -1,2 +1,2 @@
 # socket-ticket-back
-Servidor node de colas y asignación de tickets implementando sockets
+Servidor node implementando sockets. Sistema de colas y asignación de tickets.
